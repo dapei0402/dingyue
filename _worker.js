@@ -14,6 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://shz.al/wF5a
+https://shz.al/hdyC
 `
 
 let urls = [];
