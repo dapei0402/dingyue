@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://shz.al/~114-tg@pgkj666
+https://shz.al/~116-tg@pgkj666
 `
 
 let urls = [];
@@ -831,6 +831,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
