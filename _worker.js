@@ -13,7 +13,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://shz.al/GpjJ
+https://shz.al/KzBs
+https://pgfxs.us.ci/sub?token=e8f55b56d9d44c4df833be9c25666477
 `
 
 let urls = [];
