@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://shz.al/f5Q5
+https://shz.al/spPt
 `
 
 let urls = [];
